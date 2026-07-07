@@ -6,7 +6,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import LabelEncoder
 import numpy as np
 
-st.set_page_config(page_title="E-Commerce Sales Analytics", layout="wide", page_icon="🛒")
+st.set_page_config(page_title="E-Commerce Sales Intelligence & Forecasting System", layout="wide", page_icon="🛒")
 
 # ---------- Load Data ----------
 @st.cache_data
